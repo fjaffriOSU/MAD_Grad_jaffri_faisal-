@@ -1,4 +1,4 @@
-# Mobile Application Development - Grad Assignment
+# Mobile Application Development 
 
 ## Completed By
 Faisal Jaffri
